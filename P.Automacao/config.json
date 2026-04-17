@@ -1,0 +1,25 @@
+{
+ "pasta_origem":"./dados",
+ "backup":{
+     "nome_pasta":"backup__2"
+     },
+ "duplicados":{
+     "acao":["mover","apagar"],
+     "nome_pasta":"duplicados"
+     },
+ "filtros":{
+     "ignorar_pastas":[
+         "backup",
+         "duplicados",
+         ".spyproject"
+         
+         ]
+     
+     },
+ "relatorio":{
+     "arquivo":"relatorio.csv"
+     },
+ "renomear":{
+     "ficheiros":"ficheiro"
+ }
+}

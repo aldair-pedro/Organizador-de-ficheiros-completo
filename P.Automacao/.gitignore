@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE (Spyder)
+.spyproject/
+
+# Config sensível 
+.env
+
+# Pastas geradas pelo programa
+backup/
+duplicados/
+
+# Ficheiros temporários
+*.log
